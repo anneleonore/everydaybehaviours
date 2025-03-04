@@ -1,0 +1,107 @@
+Categorization Task Prompt:
+I need your help with a categorization task.  
+
+Description of the Task: 
+I will present 40 leader behaviors to you. Your job is to categorize each statement into one of the nine categories listed below. Please read the descriptions of the categories carefully to understand the meaning of each one before categorizing.
+
+The Nine Categories:
+1. Kind: Demonstrates care and appreciation for others through positive actions, recognition, and fostering a supportive atmosphere.
+2. Competence: Shows proficiency, effective communication, and the ability to lead by example, encouraging growth and adaptability in others.
+3. Shows integrity: Acts with honesty, transparency, and fairness, building trust and openness with others.
+4. Considerate: Exhibits thoughtfulness and empathy by being supportive and mindful of others' needs and circumstances.
+5. Rude: Displays behavior that is disrespectful, inconsiderate, or offensive toward others.
+6. Incompetent: Lacks necessary skills, preparation, or reliability, failing to provide adequate support or meet expectations.
+7. Lacks integrity: Engages in dishonest or unethical actions that undermine trust and fairness.
+8. Inconsiderate: Shows a lack of empathy or understanding for others' needs or fails to provide necessary information or support.
+9. Neutral: Engages in everyday actions that do not reflect positive or negative leadership behavior (but neutral!).
+
+Rules for Categorizing:
+	•	Category 1 through 8 will each have four statements to categorize.
+	•	Category 9 will have eight statements to categorize.
+	•	Each statement can only be used once. Do not categorize the same statement into more than one category.
+	•	Do not modify the content of the statements in any way. Please use them exactly as provided.
+
+The Statements (in a randomized order):
+
+1
+leads by example in all aspects of customer service.
+2
+eats a burrito for lunch.
+3
+greets everyone in the morning.
+4
+does not follow through on something he/she said she would do.
+5
+always communicates effectively.
+6
+easily adapts around other's needs.
+7
+withholds details you need to do your job effectively.
+8
+acts with integrity and treats his/her people well.
+9
+treats you as an equal and involves you in decision making.
+10
+is not very reliable about sticking up for his/her team when dealing with upper management.
+11
+lies and goes behind others backs to get another manager fired.
+12
+gives the whole office a party to thank everyone for all they do at work.
+13
+says something rude to a co-worker.
+14
+is upfront and honest.
+15
+sits down in a chair.
+16
+exhibits integrity by always letting his/her team know all needed information honestly regardless of good or bad.
+17
+helps you get a higher certification which qualifies you for more pay.
+18
+doesn't listen.
+19
+tells racially insensitive jokes at work.
+20
+walks in the door.
+21
+is never on time to anything.
+22
+parks his/her car.
+23
+picks favorites and works against the ones he/she doesn't like.
+24
+doesn't answer questions or attempt to research someone that can answer them.
+25
+gets on your case about a job he/she knows nothing about.
+26
+allows for development and learning opportunities for his/her team without question.
+27
+eats Thai food a lot.
+28
+congratulates you on being good at the job.
+29
+belittles your education.
+30
+doesn't give a co-worker enough training.
+31
+doesn't understand that you have a family emergency and fires you.
+32
+looks at a plane flying by through his/her window.
+33
+is always there to help and encourage you when you have problems or doubts. If you have personal problems, he/she takes the time to listen and help.
+34
+drives home in a car.
+35
+allows you to set a work schedule when you have other obligations.
+36
+lies about receiving information.
+37
+smiles and compliments everyone.
+38
+encourages you by pointing out exactly what you have done that you should be proud of.
+39
+gets angry and throws office supplies around the room.
+40
+does crossword puzzles during his/her lunch break.
+
+Go ahead and categorize the statements according to the categories provided. Please make sure to follow the rules and categorize each statement into only one category. Thank you!
