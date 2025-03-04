@@ -7,3 +7,13 @@ In this project 'Beyond first impressions: The dynamic impact of gender, type of
 - <a href="https://github.com/anneleonore/everydaybehaviours/blob/main/statements.txt" style="text-decoration: none; color: inherit;">Leader behaviours used in the first and second study</a>
 - <a href="https://github.com/anneleonore/everydaybehaviours/blob/main/fillerstatements.txt" style="text-decoration: none; color: inherit;">Filler leader behaviours used in the second study (Time 2)</a>
 - <a href="https://github.com/anneleonore/everydaybehaviours/blob/main/categorizationprompt.txt" style="text-decoration: none; color: inherit;">Prompt used for categorization task ChatGPT</a>
+
+#### Code
+- Data cleaning and preprocessing scripts (Python)
+- Mplus code for cross-lagged panel models
+
+#### Results
+- Output files from Mplus models
+
+#### Supplementary Materials
+- Participant demographics and sample characteristics
